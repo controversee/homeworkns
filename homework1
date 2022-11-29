@@ -1,0 +1,16 @@
+Nigar Salmanova 29.11.2022
+What is Programming? 
+Programming is converting a project into machine language by using algorithmic codes. 
+What is Software?
+There are 2 types of software: application and system.  By saying application software, we mean a software that performs tasks. It is written in high- level assembly language. System software is for running computer’s hardware and application programs. It is written in low- level assembly language.
+Also, there are driver software and middle software. Driver software functions every device that is connected to the computer. Middle software as it seems from the name connects system and application software. 
+Software works within CPU. There is a microcode within CPU that tells CPU which gates to turn on and off so electrons can flow as expected.
+How would you group programming languages?
+By functions
+By characteristics
+By design
+By opportunities
+By alphabet
+For example, you can design and code at the same time in C Sharp but in Phyton you can only code. 
+Or we can say there are machine languages, assembly languages, high- level languages, system languages and so on. 
+
